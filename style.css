@@ -1,0 +1,35 @@
+  .copy_right_footer
+  {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+  
+  }
+
+  .heading
+  {
+    text-size-adjust: 50px;
+    color: red;
+  }
+
+ .img
+ {
+  width: 150px;
+  height: auto;
+ }
+
+.mob
+{
+  width: 200;
+  height: auto;
+}
+
+.ol
+{
+  outline: auto;
+  width: 1000px;
+}
